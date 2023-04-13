@@ -1,8 +1,15 @@
-.cabeçalho {
+{*
+    margin: 0;
+    padding: 0; 
+}
+
+.cabeçalho{
 background-color: darkgreen;
 color:aliceblue
 display: flex; 
 justify-content: space-around; 
+aling-items: center; 
+padding: 24px 0 
 }
 
 .cabeçalho-imagem{

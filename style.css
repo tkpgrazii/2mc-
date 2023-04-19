@@ -4,7 +4,7 @@
 }
 
 .cabeçalho{
-background-color:  green;
+background-color: green
 color:aliceblue
 display: flex; 
 justify-content: space-around; 
@@ -28,7 +28,7 @@ font-size: 24xp;
 }
 
 .escola{
-    background-image: linear-gradient(green,#verde);
+    background-image: linear-gradient();
 
 }
 
